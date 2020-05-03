@@ -4,11 +4,11 @@ Base$Base=sub("\\s+$", "",Base$Base); n=dim(Base)[1]; Base$Contador=1:n
 
 if (Equipo<15){
   set.seed(20202)
-  random=sample(1:n, n, replace=F)
+  random=sample(1:n, n, replace=FALSE)
   bases=random[((1:2)*Equipo)]
 }else{
   set.seed(20203)
-  random=sample(1:n, n, replace=F)
+  random=sample(1:n, n, replace=FALSE)
   bases=random[((1:2)*Equipo-14)]
 }
 
