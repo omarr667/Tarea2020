@@ -1,4 +1,4 @@
-Contador#Base#Significado#Ubicación#Consideraciones
+Contador#Base#Significado#Ubicacion#Consideraciones
 1#data(austres) #Número de residentes en Australia#Por defecto de R#ninguna
 2#data(AirPassengers) #Número de pasajeros mensuales en una aerolínea#Por defecto de R#ninguna
 3#fdeaths #Muertes mensuales por enfermedades pulmonares (bronquitis, enfisema y asma) en el Reino Unido en mujeres#Por defecto de R#ninguna
