@@ -1,0 +1,33 @@
+Contador#Base#Significado#Ubicación#Consideraciones
+1#data(austres) #Número de residentes en Australia#Por defecto de R#ninguna
+2#data(AirPassengers) #Número de pasajeros mensuales en una aerolínea#Por defecto de R#ninguna
+3#fdeaths #Muertes mensuales por enfermedades pulmonares (bronquitis, enfisema y asma) en el Reino Unido en mujeres#Por defecto de R#ninguna
+4#data(JohnsonJohnson) # Valor de la acción de Johnson & Jonhson#Por defecto de R#ninguna
+5#ldeaths#Muertes mensuales por enfermedades pulmonares (bronquitis, enfisema y asma) en el Reino Unido en mujeres y hombres#Por defecto de R#ninguna
+6#mdeaths#Muertes mensuales por enfermedades pulmonares (bronquitis, enfisema y asma) en el Reino Unido en hombres#Por defecto de R#ninguna
+7#nottem #Promedio de temperaturas mensuales en °F en Nottingham #Por defecto de R#ninguna
+8#presidents #Niveles de aprobación de los presidentes de EUA #Por defecto de R#ninguna
+9#sunspot.month #Datos mensuales de manchas solares#Por defecto de R#ninguna
+10#sunspots #Números mensuales de manchas solares#Por defecto de R#ninguna
+11#UKDriverDeaths #Víctimas de carretera en Gran Bretaña #Por defecto de R#ninguna
+12#UKgas #Consumo de gas por trimestre en UK#Por defecto de R#ninguna
+13#USAccDeaths #Muertes accidentales en los Estados Unidos #Por defecto de R#ninguna
+14#data(larain) #Temperatura de Los Ángeles de manera anual #instalar librería TSA#ninguna
+15#data(hare) #número de caza de liebres en Canadá de manera anual #instalar librería TSA#ninguna
+16#data(tempdub) #Temperaturas mensuales promedio en Dubuque, Iowa#instalar librería TSA#ninguna
+17#data(oilfilters) #Ventas de petróleo en millones de dólares#instalar librería TSA#ninguna
+18#data(airmiles) #Pasajeros de avión mensuales en miles en los EUA#instalar librería TSA#ninguna
+19#data(airpass) #pasajeros de mensuales de avión internacionalmente #instalar librería TSA#ninguna
+20#data(beersales) #Ventas de cerveza en millones de barriles#instalar librería TSA#ninguna
+21#data(co2) #Niveles de CO2, en Alerta, Territorios del Noroeste, Canadá, cerca del Círculo Polar Ártico#instalar librería TSA#ninguna
+22#data(electricity) #Generación de energía en los EUA(in millones of kilowatt hours) of all types: coal, natural gas, nuclear, petroleum, and wind.#instalar librería TSA#ninguna
+25#data(hours)#Promedio de horas trabajadas en los EU en el sector manufacturero#instalar librería TSA#ninguna
+26#data(milk) #Producción mensual de leche por vaca en EUA #instalar librería TSA#ninguna
+27#data(oil.price) #precio del petróleo crudo Cushing, OK (Dólares por barril)#instalar librería TSA#ninguna
+28#data(prescrip)#Costos promedio de recetas en los Estados Unidos#instalar librería TSA#ninguna
+29#data(retail)#Ventas totales minoristas en el Reino Unido (Reino Unido) (tiendas no alimentarias en miles de millones de libras)#instalar librería TSA#ninguna
+30#data(SP)#Índice promedio de los valores de la acciones según Standard & Poor #instalar librería TSA#ninguna
+31#data(units) #Ventas anuales de ciertos equipos grandes#instalar librería TSA#ninguna
+32#data(usd.hkd) #Tipo de cambio diario USD / HKD (dólar estadounidense a dólar de Hong Kong#instalar librería TSA#ninguna
+33#data(wages) #Salarios promedio por hora en la industria del vestido#instalar librería TSA#ninguna
+34#data(winnebago) #Ventas por unidad de vehículos recreativos de Winnebago#instalar librería TSA#ninguna
