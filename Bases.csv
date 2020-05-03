@@ -12,7 +12,6 @@ Contador#Base#Significado#Ubicación#Consideraciones
 11#UKDriverDeaths #Víctimas de carretera en Gran Bretaña #Por defecto de R#ninguna
 12#UKgas #Consumo de gas por trimestre en UK#Por defecto de R#ninguna
 13#USAccDeaths #Muertes accidentales en los Estados Unidos #Por defecto de R#ninguna
-14#data(larain) #Temperatura de Los Ángeles de manera anual #instalar librería TSA#ninguna
 15#data(hare) #número de caza de liebres en Canadá de manera anual #instalar librería TSA#ninguna
 16#data(tempdub) #Temperaturas mensuales promedio en Dubuque, Iowa#instalar librería TSA#ninguna
 17#data(oilfilters) #Ventas de petróleo en millones de dólares#instalar librería TSA#ninguna
